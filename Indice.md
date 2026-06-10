@@ -1,18 +1,18 @@
 # Indice del grupo 9. 
 
 ## Mienbros: 
-> Fedigatti Augusto Mario 
+|                            | Commits |
+|----------------------------|---------|
+| Fedigatti Augusto Mario    |    2    |
+| Moore Andy                 |    0    |
+| Urdampilleta Iñaki         |    0    |
+| Pelizza De La Orden Joaquin|    0    |
 
-> Moore Andy
-
-> Urdampilleta Iñaki
-
-> Pelizza De La Orden Joaquin
 ---
 
+Como es especifica en las indicaciones del trabajo practico, aqui es donde estan las listas de los comandos del **Git** que se han aprendido en la clase de **Metodologia 1** de la UTN. 
 
 
-git log, git init, git add, git commit, git commit --fixup <hash>, git rebase, git revert, git checkout, git config, git status, git clone, git branch, git log --oneline -graph
 
 
 
