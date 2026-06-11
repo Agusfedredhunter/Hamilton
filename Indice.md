@@ -3,7 +3,7 @@
 ## Mienbros: 
 |                            | Commits | Conflicts | Ramas             | Merges |
 |----------------------------|---------|-----------|-------------------|--------|
-| Fedigatti Augusto Mario    |    3    |           |Alumno_Fedigatti   |   01   |
+| Fedigatti Augusto Mario    |    6    |           |Alumno_Fedigatti   |   01   |
 | Moore Andy                 |    1    |           |Alumno_Moore       |        |  
 | Urdampilleta Iñaki         |    1    |           |Alumno_Pelizza     |        |
 | Pelizza De La Orden Joaquin|    1    |           |Alumno_Urdampilleta|        |
