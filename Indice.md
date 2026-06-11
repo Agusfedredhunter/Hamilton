@@ -1,12 +1,12 @@
 # Indice del grupo 9. 
 
 ## Mienbros: 
-|                            | Commits | Conflicts | Ramas          | Merges |
-|----------------------------|---------|-----------|----------------|--------|
-| Fedigatti Augusto Mario    |    3    |           |Alumno_Fedigatti|   01   |
-| Moore Andy                 |    0    |           |                |        |  
-| Urdampilleta Iñaki         |    0    |           |                |        |
-| Pelizza De La Orden Joaquin|    0    |           |                |        |
+|                            | Commits | Conflicts | Ramas             | Merges |
+|----------------------------|---------|-----------|-------------------|--------|
+| Fedigatti Augusto Mario    |    3    |           |Alumno_Fedigatti   |   01   |
+| Moore Andy                 |    1    |           |Alumno_Moore       |        |  
+| Urdampilleta Iñaki         |    1    |           |Alumno_Pelizza     |        |
+| Pelizza De La Orden Joaquin|    1    |           |Alumno_Urdampilleta|        |
 
 ---
 
