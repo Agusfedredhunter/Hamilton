@@ -15,4 +15,3 @@ En este trabajo seguimos la convención de **Conventional Commits**, lo que sign
 El comando `git commit --fixup <hash>` es una variante de `git commit` que se utiliza para marcar un commit como corrección de otro commit anterior específico. En lugar de escribir un mensaje manualmente, Git genera automáticamente uno con el formato `fixup! <mensaje del commit original>`.
 
 Para usarlo, primero hay que obtener el hash del commit que se quiere corregir mediante `git log --oneline`, y luego ejecutar `git commit --fixup <hash>` apuntando a ese hash.
-
